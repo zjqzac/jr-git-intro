@@ -1,2 +1,2 @@
-some different change in master branch
+this is the new line
 second md from Cambridge
